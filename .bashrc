@@ -182,3 +182,5 @@ export CLOUDSDK_PYTHON="C:\Users\ArbynAcosta\AppData\Local\Programs\Python\Pytho
 # -------------------------------------------------------------------------+
 # Custom personal aliases                                                  |
 # -------------------------------------------------------------------------+
+
+alias ipython="python -c \"from IPython import embed; embed()\""
